@@ -4,7 +4,7 @@ int main() {
 
      int i,j;
     
-
+//char letra = 'A' ; AQUI Q MUDA
 
     for(i = 1; i <= 5; i++){
         char letra = 'A' ;
