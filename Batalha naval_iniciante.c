@@ -38,7 +38,7 @@ int main() {
   
     // Tabuleiro
 
-    printf("=== TABULEIRO BATALHA NAVAL ===\n\n");
+    printf("*TABULEIRO BATALHA NAVAL*\n\n");
 
     for (i = 0; i < tam; i++) {
         for (j = 0; j < tam; j++) {
